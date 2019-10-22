@@ -1,0 +1,9 @@
+V:\GitRepos\L8_Homework\L8_Task_1\bin\Debug\L8_Task_1.exe.config
+V:\GitRepos\L8_Homework\L8_Task_1\bin\Debug\L8_Task_1.exe
+V:\GitRepos\L8_Homework\L8_Task_1\bin\Debug\L8_Task_1.pdb
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.csprojAssemblyReference.cache
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.Form1.resources
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.Properties.Resources.resources
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.csproj.GenerateResource.cache
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.exe
+V:\GitRepos\L8_Homework\L8_Task_1\obj\Debug\L8_Task_1.pdb

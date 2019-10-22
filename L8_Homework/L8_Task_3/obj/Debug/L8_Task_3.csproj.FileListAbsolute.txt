@@ -1,0 +1,9 @@
+V:\GB_homework\L8_Homework\L8_Task_3\bin\Debug\L8_Task_3.exe.config
+V:\GB_homework\L8_Homework\L8_Task_3\bin\Debug\L8_Task_3.exe
+V:\GB_homework\L8_Homework\L8_Task_3\bin\Debug\L8_Task_3.pdb
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.csprojAssemblyReference.cache
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.Form1.resources
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.Properties.Resources.resources
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.csproj.GenerateResource.cache
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.exe
+V:\GB_homework\L8_Homework\L8_Task_3\obj\Debug\L8_Task_3.pdb
